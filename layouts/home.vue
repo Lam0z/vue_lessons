@@ -12,6 +12,9 @@
             <li>
                 <nuxt-link to="/lessons/computed" class=" ">Computed</nuxt-link>
             </li>
+            <li>
+                <nuxt-link to="/lessons/styles" class=" ">Styles</nuxt-link>
+            </li>
         </ul>
     </header>
     <main>
