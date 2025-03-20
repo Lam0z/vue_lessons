@@ -9,6 +9,9 @@
             <li>
                 <nuxt-link to="/lessons/reactive" class=" ">Reactive</nuxt-link>
             </li>
+            <li>
+                <nuxt-link to="/lessons/computed" class=" ">Computed</nuxt-link>
+            </li>
         </ul>
     </header>
     <main>
