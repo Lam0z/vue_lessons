@@ -23,6 +23,9 @@
             <li>
                 <nuxt-link to="/lessons/lists" class=" ">Lists</nuxt-link>
             </li>
+            <li>
+                <nuxt-link to="/lessons/events" class=" ">Events</nuxt-link>
+            </li>
         </ul>
     </header>
     <main>
