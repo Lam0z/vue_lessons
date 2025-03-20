@@ -20,6 +20,9 @@
                     >Conditions</nuxt-link
                 >
             </li>
+            <li>
+                <nuxt-link to="/lessons/lists" class=" ">Lists</nuxt-link>
+            </li>
         </ul>
     </header>
     <main>

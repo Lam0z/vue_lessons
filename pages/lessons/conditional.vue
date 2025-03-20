@@ -4,7 +4,7 @@ const sGroup = ref(true);
 </script>
 
 <template>
-    <MainHeader>Вычисляемые свойства</MainHeader>
+    <MainHeader>Условная отрисовка</MainHeader>
 
     <LPart subtitle="Простой пример ">
         <h1 v-if="condition">Vue восхитителен!</h1>
