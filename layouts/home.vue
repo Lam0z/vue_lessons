@@ -15,6 +15,11 @@
             <li>
                 <nuxt-link to="/lessons/styles" class=" ">Styles</nuxt-link>
             </li>
+            <li>
+                <nuxt-link to="/lessons/conditional" class=" "
+                    >Conditions</nuxt-link
+                >
+            </li>
         </ul>
     </header>
     <main>
