@@ -29,6 +29,9 @@
             <li>
                 <nuxt-link to="/lessons/forms" class=" ">Forms</nuxt-link>
             </li>
+            <li>
+                <nuxt-link to="/lessons/refs" class=" ">Refs</nuxt-link>
+            </li>
         </ul>
     </header>
     <main>
