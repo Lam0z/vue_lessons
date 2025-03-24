@@ -59,13 +59,12 @@ function even(numbers) {
     </LPart>
     <!--  -->
     <LPart subtitle="Отображение отфильтрованных/отсортированных результатов">
-        <ol v-for="n in sets">
+        <ul v-for="n in sets" class="text-danger">
             <li v-for="i in even(n)">
                 {{ i }}
             </li>
-        </ol>
+        </ul>
     </LPart>
-    <!--  -->
 </template>
 
 <style scoped></style>
